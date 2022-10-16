@@ -1,0 +1,10 @@
+.content {
+   position: fixed;
+   display: flex;
+   background-color: white;
+   height: 100vh;
+   justify-content: center;
+   text-align: center;
+   align-items: center;
+   font-size: 50px;
+}
